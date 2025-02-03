@@ -1,3 +1,2 @@
-Snake_Game_Project
 
-I have a created a project on Snake Game.Run the code and enjoy the game!
+I have a created an app on Snake Game.Run the code and enjoy the game!
